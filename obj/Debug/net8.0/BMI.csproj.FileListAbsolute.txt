@@ -1,0 +1,14 @@
+/Applications/Document /Learning Unity/BMI/bin/Debug/net8.0/BMI
+/Applications/Document /Learning Unity/BMI/bin/Debug/net8.0/BMI.deps.json
+/Applications/Document /Learning Unity/BMI/bin/Debug/net8.0/BMI.runtimeconfig.json
+/Applications/Document /Learning Unity/BMI/bin/Debug/net8.0/BMI.dll
+/Applications/Document /Learning Unity/BMI/bin/Debug/net8.0/BMI.pdb
+/Applications/Document /Learning Unity/BMI/obj/Debug/net8.0/BMI.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Document /Learning Unity/BMI/obj/Debug/net8.0/BMI.AssemblyInfoInputs.cache
+/Applications/Document /Learning Unity/BMI/obj/Debug/net8.0/BMI.AssemblyInfo.cs
+/Applications/Document /Learning Unity/BMI/obj/Debug/net8.0/BMI.csproj.CoreCompileInputs.cache
+/Applications/Document /Learning Unity/BMI/obj/Debug/net8.0/BMI.dll
+/Applications/Document /Learning Unity/BMI/obj/Debug/net8.0/refint/BMI.dll
+/Applications/Document /Learning Unity/BMI/obj/Debug/net8.0/BMI.pdb
+/Applications/Document /Learning Unity/BMI/obj/Debug/net8.0/BMI.genruntimeconfig.cache
+/Applications/Document /Learning Unity/BMI/obj/Debug/net8.0/ref/BMI.dll
